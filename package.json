@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Mern Stack backend boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/sintimmisa/mernstarted_backend.git",
+  "author": "sintimmisa <sintim.misa@gmail.com>",
+  "license": "MIT"
+}
